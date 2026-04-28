@@ -19,7 +19,7 @@ Typst 文書では、本文の中に `#set`、`#show`、`#import`、ラベル、
 ## インストール
 
 ```sh
-npm install --save-dev textlint textlint-plugin-typst-prose
+npm install --save-dev textlint textlint-plugin-typst-prose textlint-rule-sentence-length
 ```
 
 ## 使い方

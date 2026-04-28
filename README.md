@@ -21,7 +21,7 @@ This plugin is not a Typst parser. It is a small wrapper that makes Typst docume
 ## Installation
 
 ```sh
-npm install --save-dev textlint textlint-plugin-typst-prose
+npm install --save-dev textlint textlint-plugin-typst-prose textlint-rule-sentence-length
 ```
 
 ## Usage
