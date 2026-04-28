@@ -1,6 +1,6 @@
 {
   "name": "textlint-plugin-typst-prose",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A prose-oriented wrapper for textlint-plugin-typst",
   "main": "index.js",
   "scripts": {
