@@ -1,0 +1,10 @@
+{
+  "name": "textlint-plugin-typst-prose",
+  "version": "0.1.0",
+  "main": "index.js",
+  "private": true,
+  "peerDependencies": {
+    "textlint-plugin-typst": "^1.4.1"
+  }
+}
+
