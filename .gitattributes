@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+*.js diff=javascript
+*.md diff=markdown
+package-lock.json linguist-generated=true
